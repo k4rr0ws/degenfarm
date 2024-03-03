@@ -1,6 +1,6 @@
 ## TheDegen.farm
 
-TheDegen.farm is a farming project launched on Avalanche from the Run It Back community. The vision of this project was to bring a high APR farming experience to compliment the current meme culture movement.
+TheDegen.farm is a farming project launched on Avalanche from the Run It Back community. The vision of this project was to bring a high APR farming experience to compliment the current meme culture movement. Giving users the opportunity to participate and earn GAINS tokens for staking their favorite meme tokens.
 
 ## How Farming Works
 
@@ -13,3 +13,10 @@ We have set zero fees by default for the farm tokens primary pools: GAINS/AVAX, 
 ## Farm Emissions & Launch
 
 TheDegen.farm's token GAINS emissions are currently set to 0.36 GAINS per second, which works out to 933k tokens per month or 11.1m tokens per year. At launch 100k GAINS were minted and paired with 10 AVAX with a primary AVAX/GAINS farm, and a RunItBack single sided staking pool as a way to distribute the initial gains tokens to RunItBack holders.
+
+## Contracts
+GAINS: 0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b0FD3d
+MASTERCHEF: 0xc8C5BCCbC833949246081e8573918CDe381b6Cd9
+
+## Communities
+https://discord.gg/VEgwNVeZYn
