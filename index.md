@@ -19,5 +19,5 @@ GAINS: <a href="https://snowtrace.io/token/0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b
 MASTERCHEF: <a href="https://snowtrace.io/address/0xc8C5BCCbC833949246081e8573918CDe381b6Cd9">0xc8C5BCCbC833949246081e8573918CDe381b6Cd9</a>
 
 ## Community
-Join us on Discord https://discord.gg/VEgwNVeZYn <br />
-Follow us on Twitter: https://twitter.com/RunItBackAVAX
+Join us on <a href="https://discord.gg/VEgwNVeZYn">Discord</a> <br />
+Follow us on <a href="https://twitter.com/RunItBackAVAX">Twitter</a>
