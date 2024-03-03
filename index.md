@@ -15,9 +15,9 @@ We have set zero fees by default for the farm tokens primary pools: GAINS/AVAX, 
 TheDegen.farm's token GAINS emissions are currently set to 0.36 GAINS per second, which works out to 933k tokens per month or 11.1m tokens per year. At launch 100k GAINS were minted and paired with 10 AVAX with a primary AVAX/GAINS farm, and a RunItBack single sided staking pool as a way to distribute the initial gains tokens to RunItBack holders.
 
 ## Contracts
-GAINS: <a href="https://snowtrace.io/token/0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b0FD3d?chainId=43114">0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b0FD3d</a>
+GAINS: <a href="https://snowtrace.io/token/0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b0FD3d?chainId=43114">0x234B3fc3aB56f6D52FaBB0cfD8EFeB2477b0FD3d</a><br />
 MASTERCHEF: <a href="https://snowtrace.io/address/0xc8C5BCCbC833949246081e8573918CDe381b6Cd9">0xc8C5BCCbC833949246081e8573918CDe381b6Cd9</a>
 
 ## Community
-Join us on Discord https://discord.gg/VEgwNVeZYn
+Join us on Discord https://discord.gg/VEgwNVeZYn <br />
 Follow us on Twitter: https://twitter.com/RunItBackAVAX
